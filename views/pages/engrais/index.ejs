@@ -1,0 +1,11 @@
+<div class="flex flex-row flex-wrap justify-between gap-5 py-5">
+    <% data.forEach(function(engrais) { %>
+    <div class="shadow-xl rounded-lg w-80 h-80 flex flex-col">
+      <img src="<%= engrais.image_url  %>" alt="image de la engrais" class="w-full h-52">
+      <div><%= engrais.titre %></div>
+      <div><%= engrais.prix %></div>
+      <a href="/engraiss/<%=engrais.id%>/delete">Supprimer</a>
+    </div>
+  <% }); %>
+  
+  </div>

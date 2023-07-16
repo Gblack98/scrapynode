@@ -1,0 +1,17 @@
+<header class="sticky top-0 z-50 bg-gray-200 flex flex-wrap justify-center gap-4 md:justify-between shadow-lg py-5 px-5 md:px-[10%]">
+    <a href="/" class="logo" style="font-size: 1.5rem;font-weight: 800;">
+        <span style="color: rgba(0, 128, 0, 0.779);">SCR</span><span style="color:rgb(193, 133, 22)">API</span>
+    </a>
+    <input class="rounded-[1rem] px-5" type="search" placeholder="Rechercher" name="recherche" id="recherche">
+    <nav class="flex justify-between gap-5 items-center">
+        <a href="/engrais">engrais</a>
+        <a href="/materiels">materiels</a>
+        <a href="/semences">semences</a>
+        <% if(!locals.jwt){ %>
+        <a href="/users/connexion" class="py-2 px-5 bg-green-500 rounded-[1.5rem]">Connexion</a>
+        <% }else{ %>
+        <a href="/users/deconnexion" class="py-2 px-5 bg-red-500 rounded-[1.5rem]">Déconnexion</a>
+        <span class="animate-pulse font-extrabold text-lg text-purple-500"><%= locals.user.role %></span>
+        <% } %>
+    </nav>
+</header>

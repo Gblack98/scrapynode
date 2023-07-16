@@ -1,0 +1,12 @@
+<div class="flex flex-row flex-wrap justify-between gap-5 py-5">
+    <% data.forEach(function(materiel) { %>
+    <div class="shadow-xl rounded-lg w-80 h-80 flex flex-col">
+      <img src="<%= materiel.image_url  %>" alt="image de la materiel" class="w-full h-52">
+      <div><%= materiel.nom %></div>
+      <div><%= materiel.description %></div>
+      <div><%= materiel.prix %></div>
+      <a href="/materiels/<%=materiel.id%>/delete">Supprimer</a>
+    </div>
+  <% }); %>
+  
+  </div>

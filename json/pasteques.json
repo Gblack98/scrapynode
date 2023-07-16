@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1687879852755,
+        "code": "LML071",
+        "title": "Melon Cantaloup Noir des Carmes",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML07-01_T3.jpg",
+        "description": "",
+        "pour": "1 g",
+        "a": "3.10 €"
+    },
+    {
+        "id": 1687879852800,
+        "code": "LML061",
+        "title": "Melon Cantaloup Prescott à fond blanc",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML06-01_T3.jpg",
+        "description": "",
+        "pour": "1 g",
+        "a": "3.10 €"
+    },
+    {
+        "id": 1687879852840,
+        "code": "LML011",
+        "title": "Melon Charentais",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML01-01_T3.jpg",
+        "description": "",
+        "pour": "1 g",
+        "a": "3.10 €"
+    },
+    {
+        "id": 1687879852883,
+        "code": "LML041",
+        "title": "Melon d'espagne Pele de Sapo",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML04-01_T3.jpg",
+        "description": "",
+        "pour": "1 g",
+        "a": "3.10 €"
+    },
+    {
+        "id": 1687879852924,
+        "code": "LML141",
+        "title": "Melon Honey Dew",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML14-01_T3.jpg",
+        "description": "",
+        "pour": "1 g",
+        "a": "3.10 €"
+    },
+    {
+        "id": 1687879852964,
+        "code": "LML151",
+        "title": "Melon Jaune Canari",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML15-01_T3.jpg",
+        "description": "",
+        "pour": "1 g",
+        "a": "3.10 €"
+    },
+    {
+        "id": 1687879853003,
+        "code": "LML121",
+        "title": "Melon Jenny Lind",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML12-01_T3.jpg",
+        "description": "",
+        "pour": "1 g",
+        "a": "3.10 €"
+    },
+    {
+        "id": 1687879853048,
+        "code": "LML081",
+        "title": "Melon Ogen",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML08-01_T3.jpg",
+        "description": "",
+        "pour": "1 g",
+        "a": "3.10 €"
+    },
+    {
+        "id": 1687879853092,
+        "code": "LML031",
+        "title": "Melon Petit Gris de Rennes",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML03-01_T3.jpg",
+        "description": "",
+        "pour": "1 g",
+        "a": "3.10 €"
+    },
+    {
+        "id": 1687879853131,
+        "code": "LML091",
+        "title": "Melon Védrantais",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML09-01_T3.jpg",
+        "description": "",
+        "pour": "1 g",
+        "a": "3.10 €"
+    },
+    {
+        "id": 1687879853169,
+        "code": "LML051",
+        "title": "Melon vert grimpant",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML05-01_T3.jpg",
+        "description": "",
+        "pour": "1 g",
+        "a": "3.10 €"
+    },
+    {
+        "id": 1687879853208,
+        "code": "LML021",
+        "title": "Pastèque à graine rouge à confire à chair verte",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML02-01_T3.jpg",
+        "description": "",
+        "pour": "12-15 grn",
+        "a": "2.90 €"
+    },
+    {
+        "id": 1687879853247,
+        "code": "LPS022",
+        "title": "Pastèque Déhibé",
+        "image_url": "https://www.biaugerme.com/images/varietes/LPS02-01_T3.jpg",
+        "description": "",
+        "pour": "25-30 grn",
+        "a": "5.20 €"
+    },
+    {
+        "id": 1687879853286,
+        "code": "LPS011",
+        "title": "Pastèque Sugar Baby",
+        "image_url": "https://www.biaugerme.com/images/varietes/LPS01-01_T3.jpg",
+        "description": "",
+        "pour": "12-15 grn",
+        "a": "2.90 €"
+    },
+    {
+        "id": 1687879853324,
+        "code": "LML201",
+        "title": "Assortiment de melons",
+        "image_url": "https://www.biaugerme.com/images/varietes/LML20-01_T3.jpg",
+        "description": "",
+        "pour": "1 g",
+        "a": "3.90 €"
+    }
+]

@@ -1,0 +1,12 @@
+<div class="flex flex-row flex-wrap justify-between gap-5 py-5">
+  <% data.forEach(function(semence) { %>
+  <div class="shadow-xl rounded-lg w-80 h-80 flex flex-col">
+    <img src="<%= semence.url_image  %>" alt="image de la semence" class="w-full h-52">
+    <div><%= semence.famille %></div>
+    <div><%= semence.title %></div>
+    <div><%= semence.prix %></div>
+    <a href="/semences/<%=semence.id%>/delete">Supprimer</a>
+  </div>
+<% }); %>
+
+</div>
