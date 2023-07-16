@@ -1,0 +1,37 @@
+{
+  "name": "LegumesScrapping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mahmoud THIAM <dooro.mah@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "serve": "nodemon index.js",
+    "che": "node ./scripts/cheerio.js",
+    "pup": "node ./scripts/puppeteer.js",
+    "sel": "node ./scripts/selenium.js",
+    "tail": "npx tailwindcss -i ./public/css/main.css -o public/dist/output.css --watch"
+  },
+  "dependencies": {
+    "@koa/router": "^12.0.0",
+    "bcrypt": "^5.1.0",
+    "cheerio": "^1.0.0-rc.12",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^9.0.1",
+    "koa": "^2.14.2",
+    "koa-bodyparser": "^4.4.1",
+    "koa-ejs": "^4.3.0",
+    "koa-logger": "^3.2.1",
+    "koa-session": "^6.4.0",
+    "koa-static": "^5.0.0",
+    "node-fetch": "^3.3.1",
+    "pg": "^8.11.1",
+    "puppeteer": "^20.7.3",
+    "puppeteer-core": "^20.7.3",
+    "selenium-webdriver": "^4.10.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "tailwindcss": "^3.3.2"
+  }
+}
